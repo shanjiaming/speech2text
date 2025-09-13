@@ -1,0 +1,4 @@
+websockets>=12.0
+sounddevice>=0.4.6
+pynput>=1.7.7
+

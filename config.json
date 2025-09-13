@@ -1,0 +1,11 @@
+{
+  "endpoint": "wss://f.gpty.ai/api/v1/ws",
+  "hotkey": "<cmd>+u",
+  "autopaste": true,
+  "samplerate": 48000,
+  "channels": 1,
+  "block_samples": 24000,
+  "input_device": null,
+  "connect_timeout": 8.0,
+  "stop_flush_wait": 0.5
+}
